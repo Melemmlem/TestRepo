@@ -1,0 +1,15 @@
+C:\Users\victo\source\repos\RomanNumConverter\RomanNumConverter\bin\Debug\net6.0\RomanNumConverter.exe
+C:\Users\victo\source\repos\RomanNumConverter\RomanNumConverter\bin\Debug\net6.0\RomanNumConverter.deps.json
+C:\Users\victo\source\repos\RomanNumConverter\RomanNumConverter\bin\Debug\net6.0\RomanNumConverter.runtimeconfig.json
+C:\Users\victo\source\repos\RomanNumConverter\RomanNumConverter\bin\Debug\net6.0\RomanNumConverter.dll
+C:\Users\victo\source\repos\RomanNumConverter\RomanNumConverter\bin\Debug\net6.0\RomanNumConverter.pdb
+C:\Users\victo\source\repos\RomanNumConverter\RomanNumConverter\obj\Debug\net6.0\RomanNumConverter.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\RomanNumConverter\RomanNumConverter\obj\Debug\net6.0\RomanNumConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\RomanNumConverter\RomanNumConverter\obj\Debug\net6.0\RomanNumConverter.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\RomanNumConverter\RomanNumConverter\obj\Debug\net6.0\RomanNumConverter.AssemblyInfo.cs
+C:\Users\victo\source\repos\RomanNumConverter\RomanNumConverter\obj\Debug\net6.0\RomanNumConverter.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\RomanNumConverter\RomanNumConverter\obj\Debug\net6.0\RomanNumConverter.dll
+C:\Users\victo\source\repos\RomanNumConverter\RomanNumConverter\obj\Debug\net6.0\refint\RomanNumConverter.dll
+C:\Users\victo\source\repos\RomanNumConverter\RomanNumConverter\obj\Debug\net6.0\RomanNumConverter.pdb
+C:\Users\victo\source\repos\RomanNumConverter\RomanNumConverter\obj\Debug\net6.0\RomanNumConverter.genruntimeconfig.cache
+C:\Users\victo\source\repos\RomanNumConverter\RomanNumConverter\obj\Debug\net6.0\ref\RomanNumConverter.dll
